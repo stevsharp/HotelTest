@@ -1,0 +1,12 @@
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\DomainModelLayer.dll.config
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\DomainModelLayer.dll
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\DomainModelLayer.pdb
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\EntityFramework.dll
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\EntityFramework.xml
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\obj\Debug\DomainModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\obj\Debug\DomainModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\obj\Debug\DomainModelLayer.csproj.CopyComplete
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\obj\Debug\DomainModelLayer.dll
+C:\Users\Spyros\source\repos\HotelClient\DomainModelLayer\obj\Debug\DomainModelLayer.pdb
